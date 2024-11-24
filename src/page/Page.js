@@ -1,4 +1,4 @@
-import Element from "../react-query/Element";
+import Element from "../react-s/Element";
 
 const e = new Element({ name: 'e', element: 'div' });
 e.contents = 'Hello World';
