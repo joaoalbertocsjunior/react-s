@@ -20,19 +20,17 @@ Follow the steps below to get this project up and running on your local machine.
 
    ```bash
    git clone https://github.com/joaoalbertocsjunior/react-s.git
-   cd react-s
-   
+   cd react-s  
    
 2. **Install dependencies**
 
 	```bash
 	npm install
-	
+ 	
 2. **Run development server**	
 	
 	```bash
 	npm run start
-
  
 ## Third-Party Libraries
 
