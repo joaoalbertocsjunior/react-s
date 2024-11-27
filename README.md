@@ -1,6 +1,6 @@
 # react-s
 
-A short description of what the project does and why it is useful.
+
 
 ## Table of Contents
 
