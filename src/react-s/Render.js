@@ -1,7 +1,7 @@
-const Tag = ({ element: Element, props, contents }) => {
+const Tag = ({ element: Element, props, children }) => {
     return (
         <Element {...props}>
-            {contents}
+            {children}
         </Element>
     );
 };
@@ -12,17 +12,17 @@ const SelfClosingTag = ({ element: Element, props }) => {
 
 const Render = (structure) => {
     return structure.map((item, index) => {
-        const { element, selfClosing, props, contents } = item;
-
+        const { selfClosing, _dynamicProps, name, element, children, ...props } = item;
+		
         const TagType = typeof element === 'string' ? (selfClosing ? SelfClosingTag : Tag) : element;
 
         const tagParams = { element, props };
 
-        if (!selfClosing && contents) {
-            if (Array.isArray(contents)) {
-                tagParams.contents = Render(contents);
+        if (!selfClosing && children) {
+            if (Array.isArray(children)) {
+                tagParams.children = Render(children);
             } else {
-                tagParams.contents = contents;
+                tagParams.children = children;
             };
         };
 

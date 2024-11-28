@@ -1,9 +1,8 @@
-import Element from "../react-s/Element";
+import Element from "../react-s/Element.js";
 
-const e = new Element({ name: 'e', element: 'div' });
-e.contents = 'Hello World';
-let _ = e.props;
-_.id = 'e';
-_.onClick = () => { alert(true) };
+const e = new Element({ element: 'div' });
+e.id = 'e';
+e.onClick = () => { alert(true) };
+e.children = 'Hello World';
 
 export default [e];

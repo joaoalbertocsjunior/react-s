@@ -1,21 +1,47 @@
 class Element {
-    constructor({ name: name, element: element }) {
-        this.name = name;
-        this.element = element;
-        this.props = new Proxy({}, {
+    constructor({ name, element }) {
+        this.name = name || 'Element';
+        this.element = element || null;
+        this.children = []; 
+
+        this._dynamicProps = {};
+
+        return new Proxy(this, {
             get: (target, prop) => {
-                if (!(prop in target)) {
-                    target[prop] = {};
+                if (prop in target) {
+                    return target[prop];
+                } else if (prop in target._dynamicProps) {
+                    return target._dynamicProps[prop];
                 }
-                return target[prop];
+                target._dynamicProps[prop] = null;
+                return null;
             },
             set: (target, prop, value) => {
-                target[prop] = value;
+                if (prop in target) {
+                    target[prop] = value;
+                } else {
+                    target._dynamicProps[prop] = value;
+                }
                 return true;
+            },
+            ownKeys: (target) => {
+                return [...Object.keys(target), ...Object.keys(target._dynamicProps)];
+            },
+            getOwnPropertyDescriptor: (target, prop) => {
+                if (prop in target) {
+                    return Reflect.getOwnPropertyDescriptor(target, prop);
+                } else if (prop in target._dynamicProps) {
+                    return {
+                        configurable: true,
+                        enumerable: true,
+                        value: target._dynamicProps[prop]
+                    };
+                }
+                return undefined;
             }
         });
-        this.contents = null;
-    };
+    }
 };
 
 module.exports = Element;
+
