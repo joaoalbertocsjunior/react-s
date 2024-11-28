@@ -1,4 +1,4 @@
-import Render from './react-s/Render.js';
+import { Render } from '@joaoalbertocsjunior/react-s';
 import Page from './page/Page.js';
 import './App.css';
 

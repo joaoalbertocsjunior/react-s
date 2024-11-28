@@ -1,4 +1,4 @@
-import Element from "../react-s/Element.js";
+import { Element } from "@joaoalbertocsjunior/react-s";
 
 const e = new Element({ element: 'div' });
 e.id = 'e';

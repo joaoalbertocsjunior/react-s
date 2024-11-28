@@ -69,5 +69,7 @@ This project was bootstrapped using **npx** and utilizes **npm** to manage depen
    First, clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/[YourGitHubUser]/[your-project-name].git
-   cd [your-project-name]
+   git clone https://github.com/joaoalbertocsjunior/react-s.git
+   cd react-s
+   
+More detailed instructions can be found in https://github.com/joaoalbertocsjunior/react-s
