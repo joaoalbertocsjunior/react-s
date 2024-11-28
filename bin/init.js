@@ -5,7 +5,7 @@ const path = require('path');
 const fs = require('fs');
 
 const repoUrl = 'https://github.com/joaoalbertocsjunior/react-s.git';
-const destinationPath = process.cwd() + '/my-react-s-project';  // Where the project will be created
+const destinationPath = process.cwd() + '/react-s-starter';  // Where the project will be created
 
 console.log('Cloning repository...');
 
