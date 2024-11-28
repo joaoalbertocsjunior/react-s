@@ -22,7 +22,7 @@ The aim is to provide a jquery-like interface to write react apps in a predictab
 - You can use npx to download the available template and start coding:
 
 	```bash
-	npx create-react-s myapp
+	npx github:joaoalbertocsjunior/react-s
 
 - You can also install it to an existing project by:
 
