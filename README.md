@@ -1,21 +1,28 @@
 # react-s
 
-react-s stands for structure, short & simple.
+**react-s stands for _structure_, _short_ & _simple_.**
+
+- Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
+- Use tools to create and manipulate JSON-DOM.
+- Parse between DOM, JSON and JSON-DOM structures.
+
+**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance.**
+
+## This do not include
+
+- Replacement for css;
 
 ## Table of Contents
 
-- [Motivation](#motivation)
 - [Installation](#installation)
 - [Features](#features)
-- [Future Updates](#future-updates)
-- [Not included](#not-included)
 - [Documentation](#documentation)
+- [Future Updates](#future-updates)
+- [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
 - [License](#license)
-
-## Motivation
-
-The aim is to provide a jquery-like interface to write react apps in a predictable way using json-like objects instead of jsx to reduce code boilerplate verbosity.
+- [Mainteners](#mainteners)
+- [Contributors](#contributors)
 
 ## Installation
 
@@ -50,28 +57,21 @@ The aim is to provide a jquery-like interface to write react apps in a predictab
 		
 		```bash
 		npm run start
-	
-## Features
-
-- Declarative way to declare html and jsx elements and capabilities build and render component trees.
-
-## Future Updates
-
-- Support for easier rendering one and two dimensional custom components like lists and tables;
-- JQuery-like way to query component tree;
-- Support for state management;
-- Support for router;
-- Code flow normalization;
-- Minified version;
-- CDN version;
-
-## Not included 
-
-- Replacement for css;
-
+ 
 ## Documentation
 
 - Under Construction
+
+## Future Updates
+
+- _Better_ overall support for state and state management libraries;
+- _Better_ support for react-router;
+- _Enhanced_ code flow;
+- Minified and CDN version;
+
+## About the coffee
+
+**_instead_, feel free to contribute to the project!**
  
 ## Third-Party Libraries
 
@@ -82,5 +82,13 @@ This project uses third-party libraries that are licensed under the MIT License.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
-		
 
+## Mainteners
+
+This project is currently maintened by joaoalbertocsjunior with help from sources across the web.
+
+## Contributors
+
+- Ensure your name get listed here, focus is to improve this code on daily basis, feel free to contribute with _ideas_ and _code_!
+
+Happy hacking!
