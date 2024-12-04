@@ -3,10 +3,11 @@
 **react-s stands for _structure_, _short_ & _simple_.**
 
 - Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
-- Use tools to create and manipulate JSON-DOM.
 - Parse between DOM, JSON and JSON-DOM structures.
+- Use tools to create and manipulate JSON-DOM. (next release)
 
-**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance.**
+**(_Under Construction_)**
+**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance, you can also use the _Code Playground_ for quick test.**
 
 ## This do not include
 
@@ -75,20 +76,20 @@
  
 ## Third-Party Libraries
 
-This is a React.js project bootstrapped using `npx create-react-app` and includes various third-party dependencies. The project is licensed under the MIT License.
+The is a React.js project bootstrapped using `npx create-react-app` and includes various third-party dependencies. The project is licensed under the MIT License.
 
-This project uses third-party libraries that are licensed under the MIT License. See the [LICENSE](./LICENSE) file for full licensing information.
+The project uses third-party libraries that are licensed under the MIT License. See the [LICENSE](./LICENSE.txt) file for full licensing information.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
+The project is licensed under the MIT License - see the [LICENSE](./LICENSE.txt) file for details.
 
 ## Mainteners
 
-This project is currently maintened by joaoalbertocsjunior with help from sources across the web.
+The project is currently maintened by joaoalbertocsjunior with help from sources across the web.
 
 ## Contributors
 
-- Ensure your name get listed here, focus is to improve this code on daily basis, feel free to contribute with _ideas_ and _code_!
+- Get listed here, focus is to improve the code on daily basis, feel free to contribute with _ideas_ and _code_!
 
 Happy hacking!
