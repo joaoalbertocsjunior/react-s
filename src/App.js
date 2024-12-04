@@ -1,5 +1,5 @@
-import Page from './page/Page';
 import { Parse } from '@joaoalbertocsjunior/react-s';
+import Page from './page/Page';
 import './App.css';
 
 function App() {
