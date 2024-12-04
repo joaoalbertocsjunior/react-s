@@ -7,7 +7,7 @@
 - Use tools to create and manipulate JSON-DOM. (next release)
 
 **(_Under Construction_)**
-**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance, you can also use the _Code Playground_.
+**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance, you can also use the _Code Playground_.**
 
 ## This do not include
 
