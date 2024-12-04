@@ -2,8 +2,9 @@
   "name": "react-s-starter",
   "version": "0.1.0",
   "private": false,
+  "license": "MIT",
   "dependencies": {
-    "@joaoalbertocsjunior/react-s": "^1.0.7",
+	"@joaoalbertocsjunior/react-s": "^1.0.8",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
@@ -43,5 +44,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.26.0",
+    "@babel/preset-react": "^7.25.9"
   }
 }
