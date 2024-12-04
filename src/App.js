@@ -1,5 +1,5 @@
 import Page from './page/Page';
-import { Parse, Render } from './page/react-s';
+import { Parse } from './page/react-s';
 import './App.css';
 
 function App() {
