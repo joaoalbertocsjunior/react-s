@@ -1,4 +1,4 @@
-import { JSONDOM } from "./react-s";
+import { JSONDOM } from "@joaoalbertocsjunior/react-s";
 
 const e = new JSONDOM({ element: 'div' });
 e.id = 'e';
