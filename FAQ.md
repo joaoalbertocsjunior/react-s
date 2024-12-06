@@ -147,20 +147,26 @@
 
 <details>
   <summary>9. What are the major challenges react-s faces in achieving its long-term goals?</summary>
+  
   Some of the major challenges include:
+  
   - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
   - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
   - Performance and optimization: Delivering components through APIs that include both UI and data could introduce performance challenges, especially in terms of payload size and rendering efficiency.
   - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
+  - 
 </details>
 
 <details>
   <summary>10. How will react-s evolve over time to support full production-ready applications?</summary>
+  
   Over time, react-s plans to add features like:
+  
   - Better state management integration: To ensure that applications built with react-s can handle complex, dynamic data flows and state changes in a predictable way.
   - Routing support: Improved integration with libraries like React Router to manage navigation and dynamic pages.
   - Minified, production-ready builds: As the project matures, it will offer optimized, minified versions of the framework that are suitable for production environments.
   - Comprehensive documentation and example projects to help developers learn and adopt the framework quickly.
+  - 
 </details>
 
 <details>
