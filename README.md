@@ -2,6 +2,8 @@
 
 **react-s stands for _structure_, _short_ & _simple_.**
 
+Aim is to use existing ReactJS powerfull code base to build webapps using JSON structural patterns, non-relational databases and json-oriented apis like GraphQL to build the next state-of-art web.
+
 - Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
 - Parse between DOM, JSON and JSON-DOM structures.
 - Use tools to create and manipulate JSON-DOM. (next release)
