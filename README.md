@@ -37,7 +37,7 @@
 	```bash
 	npm i @joaoalbertocsjunior/react-s
 	
-	import { Parse } from "@joaoalbertocsjunior/react-s";
+	import { JSONDOM, Parse } from "@joaoalbertocsjunior/react-s";
 
 - Alternatively you can:
 
