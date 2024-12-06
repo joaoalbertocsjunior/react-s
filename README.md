@@ -77,7 +77,7 @@ Aim is to use existing ReactJS powerfull code base to build webapps using JSON s
 
 ## The long-run FAQ
 
-You can check The long-run FAQ [here](./FAQ.md).
+You can check The _long-run_ FAQ [here](./FAQ.md).
 
 ## About the coffee
 
