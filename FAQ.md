@@ -1,3 +1,7 @@
+The _long-run_ FAQ
+
+_What can i expect from react-s in the future?_
+
 <details>
   <summary>1. What is the long-term vision of react-s?</summary>
   The long-term vision of react-s is to create a modular, data-driven web development ecosystem that simplifies how developers build web applications by making use of JSON-based structures for both the UI and data layers. The project envisions a future where APIs deliver full components, not just data, and React developers can build applications using a more declarative, predictable, and streamlined approach that integrates seamlessly with modern data sources like non-relational databases and GraphQL.
