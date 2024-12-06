@@ -170,9 +170,9 @@
 
 <details>
   <summary>12. How can I contribute to the long-term success of react-s?</summary>
-  As a community-driven project, contributions are always welcome! You can help by:
-  - Contributing code to improve the core library or extend its features.
-  - Testing new features and providing feedback on performance, usability, and documentation.
-  - Sharing ideas or new use cases for how react-s could be applied in real-world applications.
-  - Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
+As a community-driven project, contributions are always welcome! You can help by:
+- Contributing code to improve the core library or extend its features.
+- Testing new features and providing feedback on performance, usability, and documentation.
+- Sharing ideas or new use cases for how react-s could be applied in real-world applications.
+- Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
 </details>
