@@ -23,6 +23,7 @@ Aim is to use existing ReactJS powerfull code base to build webapps using JSON s
 - [Features](#features)
 - [Documentation](#documentation)
 - [Future Updates](#future-updates)
+- [The long-run FAQ](#the-long-run-faq)
 - [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
 - [License](#license)
@@ -73,6 +74,10 @@ Aim is to use existing ReactJS powerfull code base to build webapps using JSON s
 - _Better_ support for react-router;
 - _Enhanced_ code flow;
 - Minified and CDN version;
+
+## The long-run FAQ
+
+You can check The long-run FAQ [here](./FAQ.md).
 
 ## About the coffee
 
