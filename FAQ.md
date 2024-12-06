@@ -11,7 +11,7 @@
 
 <details>
   <summary>2. Could react-s eventually make APIs deliver full components instead of just data?</summary>
-  Yes, one of the ambitious goals of `react-s` is to help shift the paradigm of web development toward a component-driven API model. Instead of traditional APIs that only return raw data, APIs could start delivering full, self-contained components with both their UI structure and the necessary data. This would simplify the development process by allowing developers to integrate data and components more directly, reducing the need for manual assembly and improving consistency across applications.
+  Yes, one of the ambitious goals of react-s is to help shift the paradigm of web development toward a component-driven API model. Instead of traditional APIs that only return raw data, APIs could start delivering full, self-contained components with both their UI structure and the necessary data. This would simplify the development process by allowing developers to integrate data and components more directly, reducing the need for manual assembly and improving consistency across applications.
 </details>
 
 <details>
