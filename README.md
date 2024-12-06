@@ -4,7 +4,7 @@
 
 Aim is to use existing ReactJS powerfull code base to build webapps using JSON structural patterns, non-relational databases and json-oriented APIs like GraphQL to build the next state-of-art web.
 
-**Project is currently under development and in early stage, enroll yourself**
+**Project is currently under development and in early stage, enroll yourself, focus on bleeding-edge code!**
 
 - Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
 - Parse between DOM, JSON and JSON-DOM structures.
