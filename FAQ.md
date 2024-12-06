@@ -1,6 +1,6 @@
-**The _long-run_ FAQ*
+**The _long-run_ FAQ**
 
-_What can i expect from react-s in the future?_
+**_What can i expect from react-s in the future?_**
 
 
 
