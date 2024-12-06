@@ -1,6 +1,8 @@
 **The _long-run_ FAQ*
 
-- _What can i expect from react-s in the future?_
+_What can i expect from react-s in the future?_
+
+
 
 <details>
   <summary>1. What is the long-term vision of react-s?</summary>
