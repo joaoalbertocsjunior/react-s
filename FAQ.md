@@ -169,7 +169,7 @@
 </details>
 
 <details>
-  <summary>12. How can I contribute to the long-term success of react-s?</summary>
+<summary>12. How can I contribute to the long-term success of react-s?</summary>
 As a community-driven project, contributions are always welcome! You can help by:
 - Contributing code to improve the core library or extend its features.
 - Testing new features and providing feedback on performance, usability, and documentation.
