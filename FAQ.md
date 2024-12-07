@@ -101,5 +101,5 @@ As a community driven project, contributions are always welcome! You can help by
 
 <details>
   <summary>10. What impact could react-s have on the web development industry in the long run?</summary>
-  react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on ready-to-use UI embebed data.
+  react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on ready-to-use UI with embebed data.
 </details>
