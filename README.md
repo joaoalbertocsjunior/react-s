@@ -22,14 +22,17 @@ Next releases include:
 - Parse between DOM, JSON and JSON-DOM structures.
 - Use tools to create and manipulate JSON-DOM.
 
-## Learn from examples
-
-**(_Under Construction_)**
-**View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance, you can also use the _Code Playground_.**
-
 ## This do not include
 
 - Replacement for css;
+
+## Learn from examples (Under Construction)
+
+You can:
+
+- View [Documentation](#documentation)
+- Check [examples](./examples) folder
+- Access _Code Playground_
 
 ## Table of Contents
 
@@ -44,9 +47,8 @@ Next releases include:
 - [Mainteners](#mainteners)
 - [Contributors](#contributors)
 
-## The long-run FAQ
+## The long-run FAQ (Under Maintanace)
 
-(Under Maintance)
 You can check The _long-Run_ FAQ [here](./FAQ.md). 
 
 ## Installation
