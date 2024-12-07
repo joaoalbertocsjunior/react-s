@@ -17,6 +17,22 @@ _**About estabilishing this repository as a community driven software:**_
   The primary benefit is the potential for cross-language interoperability. Many web applications still rely on backend frameworks that aren't based in JavaScript, such as Python's Django or PHP's Laravel. Allowing React components to be converted into plain HTML on the backend opens the door for backend developers to leverage modern frontend components, even if they aren't using JavaScript directly on the server-side.
 </details>
 
+
+<details>
+<summary>12. How can I contribute to the long-term success of react-s?</summary>
+
+.
+.
+.
+  
+As a community-driven project, contributions are always welcome! You can help by:
+
+- Contributing code to improve the core library or extend its features.
+- Testing new features and providing feedback on performance, usability, and documentation.
+- Sharing ideas or new use cases for how react-s could be applied in real-world applications.
+- Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
+</details>
+
 **_What can i expect from react-s in the future?_**
 
 <details>
@@ -92,19 +108,4 @@ _**About estabilishing this repository as a community driven software:**_
 <details>
   <summary>11. What impact could react-s have on the web development industry in the long run?</summary>
   If successful, react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more modular, reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on data-driven UI and reusable components that are integrated directly into the API layer.
-</details>
-
-<details>
-<summary>12. How can I contribute to the long-term success of react-s?</summary>
-
-.
-.
-.
-  
-As a community-driven project, contributions are always welcome! You can help by:
-
-- Contributing code to improve the core library or extend its features.
-- Testing new features and providing feedback on performance, usability, and documentation.
-- Sharing ideas or new use cases for how react-s could be applied in real-world applications.
-- Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
 </details>
