@@ -154,7 +154,6 @@
   - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
   - Performance and optimization: Delivering components through APIs that include both UI and data could introduce performance challenges, especially in terms of payload size and rendering efficiency.
   - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
-  - 
 </details>
 
 <details>
@@ -166,7 +165,6 @@
   - Routing support: Improved integration with libraries like React Router to manage navigation and dynamic pages.
   - Minified, production-ready builds: As the project matures, it will offer optimized, minified versions of the framework that are suitable for production environments.
   - Comprehensive documentation and example projects to help developers learn and adopt the framework quickly.
-  - 
 </details>
 
 <details>
@@ -183,5 +181,4 @@ As a community-driven project, contributions are always welcome! You can help by
 - Testing new features and providing feedback on performance, usability, and documentation.
 - Sharing ideas or new use cases for how react-s could be applied in real-world applications.
 - Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
-
 </details>
