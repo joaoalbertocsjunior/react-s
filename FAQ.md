@@ -30,7 +30,7 @@ About estabilishing this repository as a community driven software:
      **Real-world implication**: This reduces the need for creating multiple views or entirely separate routes for different user contexts. The application becomes more modular, with components reusing the same underlying logic but presenting different content.
 
   2. **Personalization on Demand**:  
-     URL parameters or the data body can carry user-specific information, allowing the app to serve personalized components. For example, based on user data (such as recent activity or preferences), the app could display different components, from **_any source arround the web_**, making it easy to integrate pages or components from same or cross origin, like showing a user’s shopping cart or saved items on one part of the page, and promotions on another.
+     URL parameters or the data body can carry user-specific information, allowing the app to serve personalized components. For example, based on user data (such as recent activity or preferences), the app could display different components, from **_any source arround the web_**, making it possible to integrate pages or components from same or cross origin, like showing a user’s shopping cart or saved items on one part of the page, and promotions on another.
 
      If the app detects the user is a premium member (via a query param like `?user=premium`), it could automatically load exclusive offers or provide priority customer support components. This personalization is seamless because it's driven by the data in the request itself, not by static page routes.
 
