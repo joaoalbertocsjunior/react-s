@@ -69,9 +69,7 @@
 
 <details>
   <summary>Far-Reaching Achievement: JSX to HTML DOM Parser for Cross-Language Compatibility</summary>
-.
-.
-.
+  
   One of the long-term goals for the `react-s` project is to introduce the ability to translate JSX components into simple HTML DOM and vice versa. This capability would allow the project to bridge the gap between React-based frontend development and backend environments in other programming languages, such as Python, PHP, Ruby, and more.
 
   ### What is the benefit of this approach?
