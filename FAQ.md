@@ -5,7 +5,7 @@
   As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Below is a practical use case illustrating the real-world benefits and challenges of this concept.
 
 
-  **Use Case: Dynamic Component Loading Based on URL Parameters and Data Body**
+-  **Use Case: Dynamic Component Loading Based on URL Parameters and Data Body**
 
   Imagine a web application, such as an e-commerce platform, where users are shown a dashboard with multiple components such as product recommendations, live offers, or user statistics. Each component is designed to be modular and customizable based on different data or parameters that are passed either through URL query parameters or via a data body (e.g., through an API request).
 
