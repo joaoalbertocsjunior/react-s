@@ -25,7 +25,7 @@ _**About estabilishing this repository as a community driven software:**_
 .
 .
   
-As a community-driven project, contributions are always welcome! You can help by:
+As a community driven project, contributions are always welcome! You can help by:
 
 - Contributing code to improve the core library or extend its features.
 - Testing new features and providing feedback on performance, usability, and documentation.
