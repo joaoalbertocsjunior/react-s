@@ -29,26 +29,19 @@ About estabilishing this repository as a community driven software:
 
      **Real-world implication**: This reduces the need for creating multiple views or entirely separate routes for different user contexts. The application becomes more modular, with components reusing the same underlying logic but presenting different content.
 
-  2. **Improved Performance**:  
-     Since only the necessary components are loaded or updated based on the context (like URL params or data body), the app avoids full-page reloads. This reduces bandwidth usage and provides a faster, more responsive experience.
-
-     For instance, instead of loading a new page every time a user filters products by category (e.g., `?category=clothing`), only the relevant components for the new category are updated or replaced dynamically. This results in quicker page transitions, minimal page reloads, and a smoother experience.
-
-     **Real-world implication**: This can improve performance, especially in mobile or low-bandwidth environments. However, the challenge is maintaining proper state synchronization across dynamic components, which can require more advanced state management.
-
-  3. **Personalization on Demand**:  
+  2. **Personalization on Demand**:  
      URL parameters or the data body can carry user-specific information, allowing the app to serve personalized components. For example, based on user data (such as recent activity or preferences), the app could display different components, from **_any source arround the web_**, making it easy to integrate pages or components from same or cross origin, like showing a user’s shopping cart or saved items on one part of the page, and promotions on another.
 
      If the app detects the user is a premium member (via a query param like `?user=premium`), it could automatically load exclusive offers or provide priority customer support components. This personalization is seamless because it's driven by the data in the request itself, not by static page routes.
 
      **Real-world implication**: By leveraging URL parameters or dynamic data bodies, users receive more relevant, context-driven experiences. Developers can reduce the need for complex routing logic and focus more on building reusable, customizable components.
 
-  4. **Flexible User Journeys**:  
+  3. **Flexible User Journeys**:  
      In dynamic web apps, user journeys no longer need to follow rigid paths. Instead of predefined page routes, apps can deliver different content or UI elements depending on the data provided. A user might visit a generic dashboard URL, and based on the query parameters (e.g., `?view=analytics`), the page could present an analytics dashboard with charts, graphs, and reports, while another user, accessing the same base URL, might see a news feed.
 
      **Real-world implication**: This allows web apps to offer more dynamic, non-linear experiences that can change in real-time without forcing users to navigate to entirely different pages. This also opens up the possibility of multi-tasking within a single view, as users can interact with different components without leaving the current page.
 
-  5. **Easier Content Updates and Versioning**:  
+4. **Easier Content Updates and Versioning**:  
      Since components are independent and data-driven, developers can easily update specific sections of a page or change the content displayed without affecting the rest of the app. For example, updating the content of a product card can be done without needing to modify the entire page layout or reload other components. This can be useful as such in an e-commerce context, where new products, offers, or reviews need to be dynamically injected into the page.
 
      **Real-world implication**: This can simplify content management, particularly in apps that need to pull in external data (e.g., from APIs or databases) to update content on the fly. But careful consideration must be given to ensure consistency and correct rendering when updating components.
