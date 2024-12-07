@@ -5,7 +5,7 @@ _**About estabilishing this repository as a community driven software:**_
 <details>
   <summary>The Future of Web Apps – Dynamic Component Interchange from cross or same-origin</summary>
 
-  As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Developers being able to load components from **_any source arround the web_**, make it possible to integrate pages or components from anywhere and everywhere.
+  As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on APIs, URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Developers being able to load components from **_any source arround the web_**, make it possible to integrate pages or components from anywhere and everywhere.
 
 </details>
 
