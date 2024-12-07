@@ -2,6 +2,9 @@
 
 <details>
   <summary>The Future of Web Apps – Dynamic Component Interchange</summary>
+.
+.
+.
   As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Below is a practical use case illustrating the real-world benefits and challenges of this concept.
 
 .
@@ -68,7 +71,9 @@
 
 <details>
   <summary>Far-Reaching Achievement: JSX to HTML DOM Parser for Cross-Language Compatibility</summary>
-  
+.
+.
+.
   One of the long-term goals for the `react-s` project is to introduce the ability to translate JSX components into simple HTML DOM and vice versa. This capability would allow the project to bridge the gap between React-based frontend development and backend environments in other programming languages, such as Python, PHP, Ruby, and more.
 
   ### What is the benefit of this approach?
@@ -152,6 +157,10 @@
 <details>
   <summary>9. What are the major challenges react-s faces in achieving its long-term goals?</summary>
   
+.
+.
+.
+  
   Some of the major challenges include:
   
   - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
@@ -163,6 +172,10 @@
 <details>
   <summary>10. How will react-s evolve over time to support full production-ready applications?</summary>
   
+.
+.
+.
+
   Over time, react-s plans to add features like:
   
   - Better state management integration: To ensure that applications built with react-s can handle complex, dynamic data flows and state changes in a predictable way.
@@ -179,6 +192,10 @@
 <details>
 <summary>12. How can I contribute to the long-term success of react-s?</summary>
 
+.
+.
+.
+  
 As a community-driven project, contributions are always welcome! You can help by:
 
 - Contributing code to improve the core library or extend its features.
