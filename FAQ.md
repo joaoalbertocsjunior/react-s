@@ -19,7 +19,7 @@ _**About estabilishing this repository as a community driven software:**_
 
 
 <details>
-<summary>12. How can I contribute to the long-term success of react-s?</summary>
+<summary>How can I contribute to the long-term success of react-s?</summary>
 
 .
 .
