@@ -1,5 +1,7 @@
 **The _long-run_ FAQ**
 
+About estabilishing this repository as a community driven software:
+
 <details>
   <summary>The Future of Web Apps – Dynamic Component Interchange</summary>
 
@@ -35,7 +37,7 @@
      **Real-world implication**: This can improve performance, especially in mobile or low-bandwidth environments. However, the challenge is maintaining proper state synchronization across dynamic components, which can require more advanced state management.
 
   3. **Personalization on Demand**:  
-     URL parameters or the data body can carry user-specific information, allowing the app to serve personalized components. For example, based on user data (such as recent activity or preferences), the app could display different components, like showing a user’s shopping cart or saved items on one part of the page, and promotions on another.
+     URL parameters or the data body can carry user-specific information, allowing the app to serve personalized components. For example, based on user data (such as recent activity or preferences), the app could display different components, from **_any source arround the web_**, making it easy to integrate pages or components from same or cross origin, like showing a user’s shopping cart or saved items on one part of the page, and promotions on another.
 
      If the app detects the user is a premium member (via a query param like `?user=premium`), it could automatically load exclusive offers or provide priority customer support components. This personalization is seamless because it's driven by the data in the request itself, not by static page routes.
 
@@ -47,7 +49,7 @@
      **Real-world implication**: This allows web apps to offer more dynamic, non-linear experiences that can change in real-time without forcing users to navigate to entirely different pages. This also opens up the possibility of multi-tasking within a single view, as users can interact with different components without leaving the current page.
 
   5. **Easier Content Updates and Versioning**:  
-     Since components are independent and data-driven, developers can easily update specific sections of a page or change the content displayed without affecting the rest of the app. For example, updating the content of a product card can be done without needing to modify the entire page layout or reload other components. This is particularly useful in an e-commerce context, where new products, offers, or reviews need to be dynamically injected into the page.
+     Since components are independent and data-driven, developers can easily update specific sections of a page or change the content displayed without affecting the rest of the app. For example, updating the content of a product card can be done without needing to modify the entire page layout or reload other components. This can be useful as such in an e-commerce context, where new products, offers, or reviews need to be dynamically injected into the page.
 
      **Real-world implication**: This can simplify content management, particularly in apps that need to pull in external data (e.g., from APIs or databases) to update content on the fly. But careful consideration must be given to ensure consistency and correct rendering when updating components.
 
