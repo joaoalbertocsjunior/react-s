@@ -1,6 +1,6 @@
 **The _long-run_ FAQ**
 
-About estabilishing this repository as a community driven software:
+_**About estabilishing this repository as a community driven software:**_
 
 <details>
   <summary>The Future of Web Apps – Dynamic Component Interchange from cross or same-origin</summary>
