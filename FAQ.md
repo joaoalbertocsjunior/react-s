@@ -5,7 +5,7 @@ _**About estabilishing this repository as a community driven software:**_
 <details>
   <summary>The Future of Web Apps – Dynamic Component Interchange from cross or same-origin</summary>
 
-  As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on APIs, URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Developers being able to load components from **_any source arround the web_**, make it possible to integrate pages or components from anywhere and everywhere.
+  As web applications become more complex and personalized, a key trend is the ability for pages to dynamically interchange components based on APIs, URL parameters or data body. This approach enables greater flexibility in how web apps deliver content and interact with users. Developers may be able to load components from **_any source arround the web_**, make it possible to integrate pages or components from **_anywhere_** and **_everywhere_**, as long as the means are provided.
 
 </details>
 
@@ -19,14 +19,14 @@ _**About estabilishing this repository as a community driven software:**_
   Some of the major challenges include:
   
   - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
-  - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
-  - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
+  - Ensuring compatibility with existing React tools and ecosystems: It must also ensure that it integrates well with existing React tools, libraries, and patterns.
+  - Building a comprehensive ecosystem: To become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
 </details>
 
 <details>
   <summary>Far-Reaching Achievement: JSX to HTML DOM Parser for Cross-Language Compatibility</summary>
   
-  One of the long-term goals for the `react-s` project is to introduce the ability to translate JSX components into simple HTML DOM and vice versa. This capability would allow the project to bridge the gap between React-based frontend development and backend environments in other programming languages, such as Python, PHP, Ruby, and more.
+  One of the long-term goals for the `react-s` project is to introduce the ability to translate JSX components into simple HTML DOM that can also be converted to simple JSON or DOM-JSON and vice versa. This capability would allow the project to bridge the gap between React-based frontend development and backend environments in other programming languages, such as Python, PHP, Ruby, and more.
 
   The primary benefit is the potential for cross-language interoperability. Many web applications still rely on backend frameworks that aren't based in JavaScript, such as Python's Django or PHP's Laravel. Allowing React components to be converted into plain HTML on the backend opens the door for backend developers to leverage modern frontend components, even if they aren't using JavaScript directly on the server-side.
 </details>
@@ -51,17 +51,17 @@ As a community driven project, contributions are always welcome! You can help by
 
 <details>
   <summary>1. What is the short-term vision of react-s?</summary>
-  The short-term vision of react-s is to create a modular, data-driven web development paradigm that simplifies how developers build web applications by making use of JSON-based structures for both the UI and data layers. The project envisions a future where APIs deliver full components, not just data, and React developers can build applications using a more declarative, predictable, and streamlined approach that integrates seamlessly with modern data sources like non-relational databases and GraphQL.
+  The short-term vision of react-s is to create a component-ready and data-driven web development paradigm that simplifies how developers build web applications by making use of JSON-based structures for both the UI and data layers, simplifing component building and sharing. The project envisions a future where APIs deliver full components, not just data, and developers can build applications using a less verbose and streamlined approach that integrates seamlessly with modern data sources like non-relational databases and JSON-based APIs like GraphQL.
 </details>
 
 <details>
   <summary>2. What role will JSON play in the long-term architecture of react-s?</summary>
-  One of key features of the project is to use a structural pattern that is easy to read or transform, and is widely adopted on the software industry so JSON will continue to be at the core of the react-s project’s long-term architecture. The aim is for both the UI and data to be coupled using JSON objects, enabling a unified, predictable structure. This consistency will help developers to focus on defining what their components should look or provide, rather than worrying about all aspects of structural UI.
+  One of key features of the project is to use a structural pattern that is easy to read or transform, and is widely adopted on the software industry. JSON will continue to be at the core of the react-s project’s long-term architecture. The aim is for both the UI and data to be coupled using JSON objects. This consistency will help developers to focus on defining what their components should look or provide, rather than worrying about all aspects of structural UI.
 </details>
 
 <details>
   <summary>3. How does react-s plan to integrate with modern data sources like GraphQL and NoSQL databases?</summary>
-  react-s is designed to achieve the goal of making it easier to work with non-relational databases (like MongoDB) and GraphQL APIs by using JSON as the primary format for both the front-end UI and back-end data. This alignment allows developers to more easily render components with embebed data between front-end and back-end systems, manage, store and minimize the transformations needed between data structures. The long-term goal is to allow developers to use GraphQL not just for fetching data but to retrieve fully-formed components that are data-bound, providing a more intuitive and seamless development experience.
+  react-s is designed to achieve the goal of making it easier to work with non-relational databases (like MongoDB) and GraphQL APIs by using JSON as the primary format for both the front-end UI and back-end data. This alignment allows developer easily render components with data-in-place, manage, store and minimize the transformations needed between data structures. The long-term goal is to allow developers to use JSON-based APIs not just for fetching data but to retrieve fully-formed components that are data-bound, providing a more intuitive and seamless development experience.
 </details>
 
 <details>
@@ -101,5 +101,5 @@ As a community driven project, contributions are always welcome! You can help by
 
 <details>
   <summary>10. What impact could react-s have on the web development industry in the long run?</summary>
-  react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on ready-to-use UI with embebed data.
+  react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on ready-to-use UI with data-in-place.
 </details>
