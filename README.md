@@ -2,7 +2,9 @@
 
 **react-s stands for _structure_, _short_ & _simple_.**
 
-Aim is to use existing ReactJS powerfull code base to build webapps using JSON structural patterns, non-relational databases and json-oriented APIs like GraphQL to build the next _state-of-art_ web.
+This aims to be a community-driven project where the main goal is to enable developers to use existing ReactJS powerfull code base to build webapps using JSON structural patterns, non-relational databases and json-oriented APIs like GraphQL to build the next _state-of-art_ web.
+
+- At some point translations for other languages like python, php, ruby... will be available.
 
 ## Why should i use json instead of xml or jsx?
 
