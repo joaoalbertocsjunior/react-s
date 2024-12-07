@@ -86,7 +86,6 @@ As a community driven project, contributions are always welcome! You can help by
   
   - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
   - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
-  - Performance and optimization: Delivering components through APIs that include both UI and data could introduce performance challenges, especially in terms of payload size and rendering efficiency.
   - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
 </details>
 
