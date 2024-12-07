@@ -33,7 +33,8 @@ react-s envisions a future where full data-bound components can be fetched direc
 
 ## The long-run FAQ
 
-You can check The _long-run_ FAQ [here](./FAQ.md).
+(Under Maintance)
+You can check The _long-Run_ FAQ [here](./FAQ.md). 
 
 ## Installation
 
