@@ -10,6 +10,20 @@ _**About estabilishing this repository as a community driven software:**_
 </details>
 
 <details>
+  <summary>What are the major challenges react-s faces in achieving its long-term goals?</summary>
+  
+.
+.
+.
+  
+  Some of the major challenges include:
+  
+  - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
+  - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
+  - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
+</details>
+
+<details>
   <summary>Far-Reaching Achievement: JSX to HTML DOM Parser for Cross-Language Compatibility</summary>
   
   One of the long-term goals for the `react-s` project is to introduce the ability to translate JSX components into simple HTML DOM and vice versa. This capability would allow the project to bridge the gap between React-based frontend development and backend environments in other programming languages, such as Python, PHP, Ruby, and more.
@@ -33,7 +47,7 @@ As a community driven project, contributions are always welcome! You can help by
 - Spreading the word and helping the community grow through blog posts, tutorials, and conference talks.
 </details>
 
-**_What can i expect from react-s in the future?_**
+**_What can i expect from react-s in the near future?_**
 
 <details>
   <summary>1. What is the long-term vision of react-s?</summary>
@@ -73,20 +87,6 @@ As a community driven project, contributions are always welcome! You can help by
 <details>
   <summary>8. How will react-s make it easier to work with third-party libraries and tools?</summary>
   As react-s evolves, it aims to improve compatibility and integration with a wide range of third-party libraries and tools. This includes libraries for state management, routing, form handling, and more. The long-term goal is to ensure that react-s works seamlessly with popular React ecosystem tools while maintaining its focus on declarative, data-driven UI components. This will likely include better support for React Router, Redux, and potentially other solutions for state management and data fetching.
-</details>
-
-<details>
-  <summary>9. What are the major challenges react-s faces in achieving its long-term goals?</summary>
-  
-.
-.
-.
-  
-  Some of the major challenges include:
-  
-  - Adoption of JSON-based component structures: Shifting from traditional JSX to a JSON-based UI structure requires a change in mindset for many developers, and could face resistance in the short term.
-  - Ensuring compatibility with existing React tools and ecosystems: While the project aims to innovate, it must also ensure that it integrates well with existing React tools, libraries, and patterns.
-  - Building a comprehensive ecosystem: For react-s to become truly state-of-the-art, it will need a rich ecosystem of reusable components, clear documentation, and adoption by the broader community.
 </details>
 
 <details>
