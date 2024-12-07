@@ -50,47 +50,42 @@ As a community driven project, contributions are always welcome! You can help by
 **_What can i expect from react-s in the near future?_**
 
 <details>
-  <summary>1. What is the long-term vision of react-s?</summary>
-  The long-term vision of react-s is to create a modular, data-driven web development ecosystem that simplifies how developers build web applications by making use of JSON-based structures for both the UI and data layers. The project envisions a future where APIs deliver full components, not just data, and React developers can build applications using a more declarative, predictable, and streamlined approach that integrates seamlessly with modern data sources like non-relational databases and GraphQL.
+  <summary>1. What is the short-term vision of react-s?</summary>
+  The short-term vision of react-s is to create a modular, data-driven web development paradigm that simplifies how developers build web applications by making use of JSON-based structures for both the UI and data layers. The project envisions a future where APIs deliver full components, not just data, and React developers can build applications using a more declarative, predictable, and streamlined approach that integrates seamlessly with modern data sources like non-relational databases and GraphQL.
 </details>
 
 <details>
-  <summary>2. Could react-s eventually make APIs deliver full components instead of just data?</summary>
-  Yes, one of the ambitious goals of react-s is to help shift the paradigm of web development toward a component-driven API model. Instead of traditional APIs that only return raw data, APIs could start delivering full, self-contained components with both their UI structure and the necessary data. This would simplify the development process by allowing developers to integrate data and components more directly, reducing the need for manual assembly and improving consistency across applications.
+  <summary>2. What role will JSON play in the long-term architecture of react-s?</summary>
+  One of key features of the project is to use a structural pattern that is easy to read or transform, and is widely adopted on the software industry so JSON will continue to be at the core of the react-s project’s long-term architecture. The aim is for both the UI and data to be coupled using JSON objects, enabling a unified, predictable structure. This consistency will help developers to focus on defining what their components should look or provide, rather than worrying about all aspects of structural UI.
 </details>
 
 <details>
-  <summary>3. How will react-s affect the role of APIs in web development?</summary>
-  In the future, APIs may evolve from being purely data-fetching endpoints to becoming full-featured component providers. By using a JSON-based structure for defining React components, APIs could return components that are already tied to the data they need to display. This would enable more flexible, reusable components that are not only aware of the data they display but also embed the logic and interactivity needed for the UI. This could help decouple the front-end and back-end in a way that allows for faster, more maintainable development.
+  <summary>3. How does react-s plan to integrate with modern data sources like GraphQL and NoSQL databases?</summary>
+  react-s is designed to achieve the goal of making it easier to work with non-relational databases (like MongoDB) and GraphQL APIs by using JSON as the primary format for both the front-end UI and back-end data. This alignment allows developers to more easily render components with embebed data between front-end and back-end systems, manage, store and minimize the transformations needed between data structures. The long-term goal is to allow developers to use GraphQL not just for fetching data but to retrieve fully-formed components that are data-bound, providing a more intuitive and seamless development experience.
 </details>
 
 <details>
-  <summary>4. How does react-s plan to integrate with modern data sources like GraphQL and NoSQL databases?</summary>
-  react-s is designed with the goal of making it easier to work with non-relational databases (like MongoDB) and GraphQL APIs by using JSON as the primary format for both the front-end UI and back-end data. This alignment allows developers to more easily manage data flows between front-end and back-end systems, and minimize the transformations needed between data structures. The long-term goal is to allow developers to use GraphQL not just for fetching data but to retrieve fully-formed components that are data-bound, providing a more intuitive and seamless development experience.
+  <summary>4. Could react-s eventually make APIs deliver full components instead of just data?</summary>
+  Yes, one of the current goals of react-s is to help shift the paradigm of web development toward a component-driven API model. Instead of traditional APIs that only return raw data, APIs will be able start delivering full, self-contained components with both their UI structure and the necessary data. This would simplify the development process by allowing developers to integrate data and components faster, reducing the need for manual assembly.
 </details>
 
 <details>
-  <summary>5. What does a data-driven, declarative approach to UI development mean in the context of react-s?</summary>
-  A data-driven, declarative approach means that developers can focus more on describing what their application should look like and less on how to implement it. Instead of manually handling UI states and building the user interface in imperative ways (like in traditional React with JSX), react-s allows for the definition of components through JSON structures that include both the UI and its data. Over time, this approach aims to reduce verbosity, increase consistency, and make it easier for developers to work with complex, data-heavy applications.
+  <summary>5. How will react-s affect the role of APIs in web development?</summary>
+  In the future, APIs may evolve from being purely data-fetching endpoints to becoming full-featured component providers. By using a JSON-based structure for defining React components, APIs could return components that are already tied to the data they need to display and ready for the front-end consumption. This would enable ready-to-use components that are not only aware of the data they display but also embed the logic and interactivity needed for the UI. This could help decouple the front-end and back-end in a way that allows for faster, more maintainable development.
 </details>
 
 <details>
   <summary>6. Will react-s offer tools for state management and component lifecycle in the long term?</summary>
-  Yes, one of the future updates for react-s includes enhanced support for state management and component lifecycle. As the project matures, it will integrate better support for popular state management libraries (like Redux) and provide more streamlined patterns for handling component state and lifecycle events. This will help developers manage data flow and side effects more predictably and efficiently, which is especially important in larger applications.
-</details>
-
-<details>
-  <summary>7. What role will JSON play in the long-term architecture of react-s?</summary>
-  JSON will continue to be at the core of the react-s project’s long-term architecture. The aim is for both the UI and data to be described using JSON objects, enabling a unified, predictable structure. This consistency will help developers avoid unnecessary complexity and focus on declaratively defining what their components should do, rather than worrying about different formats for the UI, the data, or how they interact. In the future, this could extend beyond just components to encompass entire page layouts, workflows, and even complex interactions.
+  Yes, one of the future updates for react-s includes enhanced support for state management and component lifecycle. As the project matures, it will integrate better support for popular state management libraries (like Redux) and provide more streamlined patterns for handling component state and lifecycle events. This will help developers manage data flow and side effects more predictably and efficiently.
 </details>
 
 <details>
   <summary>8. How will react-s make it easier to work with third-party libraries and tools?</summary>
-  As react-s evolves, it aims to improve compatibility and integration with a wide range of third-party libraries and tools. This includes libraries for state management, routing, form handling, and more. The long-term goal is to ensure that react-s works seamlessly with popular React ecosystem tools while maintaining its focus on declarative, data-driven UI components. This will likely include better support for React Router, Redux, and potentially other solutions for state management and data fetching.
+  As react-s evolves, it aims to improve compatibility and integration with a wide range of third-party libraries and tools. This includes libraries for state management, routing, form handling, and more. The long-term goal is to ensure that react-s works seamlessly with popular and powerful React ecosystem tools while maintaining its focus on hands-on data-driven UI components. This will likely include better support for React Router, Redux, and potentially other solutions for state management and data fetching.
 </details>
 
 <details>
-  <summary>10. How will react-s evolve over time to support full production-ready applications?</summary>
+  <summary>9. How will react-s evolve over time to support full production-ready applications?</summary>
   
 .
 .
@@ -105,6 +100,6 @@ As a community driven project, contributions are always welcome! You can help by
 </details>
 
 <details>
-  <summary>11. What impact could react-s have on the web development industry in the long run?</summary>
-  If successful, react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more modular, reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on data-driven UI and reusable components that are integrated directly into the API layer.
+  <summary>10. What impact could react-s have on the web development industry in the long run?</summary>
+  react-s could contribute to a major shift in how modern web applications are built. By making data and components interchangeable and easily consumable, it could help decouple the frontend from the backend in a more natural way, allowing for more reusable components and a smoother development experience. This could lead to a future where developers are able to assemble web applications more quickly, with a stronger focus on ready-to-use UI embebed data.
 </details>
