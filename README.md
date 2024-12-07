@@ -8,11 +8,19 @@ Aim is to use existing ReactJS powerfull code base to build webapps using JSON s
 
 This project envisions a future where data-bound components can be fetched directly from apis or send over url params and body requests.
 
+## Is the project _production ready_?
+
+In summary, **no**, _eventually_ it will be.
+
 **Project is currently under development and in early stage, enroll yourself, focus on _bleeding-edge_ code!**
+
+Next releases include:
 
 - Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
 - Parse between DOM, JSON and JSON-DOM structures.
-- Use tools to create and manipulate JSON-DOM. (next release)
+- Use tools to create and manipulate JSON-DOM.
+
+## Learn from examples
 
 **(_Under Construction_)**
 **View _[Documentation](#documentation)_ section and _[examples](./examples)_ folder for better guidance, you can also use the _Code Playground_.**
