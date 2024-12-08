@@ -36,6 +36,13 @@ Next releases include:
 
 - Replacement for css;
 
+## What can i expect in next updates
+
+- _Better_ overall support for state and state management libraries;
+- _Better_ support for react-router;
+- _Enhanced_ code flow;
+- Minified and CDN version;
+
 ## Learn from examples (Under Construction)
 
 You can:
@@ -52,7 +59,6 @@ White sections are still under construction and not yet available.
 - [Installation](#installation)
 - Features
 - Documentation
-- [Future Updates](#future-updates)
 - [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
 - [License](#license)
@@ -92,13 +98,6 @@ White sections are still under construction and not yet available.
 		
 		```bash
 		npm run start
-
-## Future Updates
-
-- _Better_ overall support for state and state management libraries;
-- _Better_ support for react-router;
-- _Enhanced_ code flow;
-- Minified and CDN version;
 
 ## About the coffee
 
