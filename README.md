@@ -32,7 +32,7 @@ Next releases include:
 - Parse between DOM, JSON and JSON-DOM structures.
 - Use tools to create and manipulate JSON-DOM.
 
-## What can i expect next
+## What to expect next
 
 - _Better_ overall support for state and state management libraries;
 - _Better_ support for react-router;
