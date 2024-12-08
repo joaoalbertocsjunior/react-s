@@ -8,7 +8,7 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 ## Why should i use json instead of xml or jsx?
 
-This project envisions a future where data-bound components can be fetched directly from apis or send over url params and body requests.
+This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or send over url params and body requests.
 
 ## Is the project _production ready_?
 
@@ -49,7 +49,7 @@ You can:
 
 ## The long-run FAQ (Under Maintanace)
 
-You can check The _long-Run_ FAQ [here](./FAQ.md). 
+You can check The _Long-Run_ FAQ [here](./FAQ.md). 
 
 ## Installation
 
