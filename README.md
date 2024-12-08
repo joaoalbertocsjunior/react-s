@@ -10,7 +10,7 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or send over url params and body requests.
 
-## Why this sould be considered evergreen?
+## Why _this sould be considered evergreen_?
 
 - JSON is easy to read.
 - JSON is easy to parse.
