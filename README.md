@@ -6,11 +6,11 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 - At some point translations for other languages like python, php, ruby... will be available.
 
-## Why _this sould be considered evergreen_
+## Why _this sould remain evergreen_
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests.
 
-## Why should i use json instead of xml or jsx?
+## Why should i use json instead of xml or jsx
 
 - JSON is easy to read.
 - JSON is easy to parse.
@@ -20,7 +20,7 @@ This project envisions a future where data-bound and ready-to-consume components
 
 You can write logic inside JSON as you would in xml or jsx.
 
-## Is the project _production ready_?
+## Is the project _production ready_
 
 In summary, **no**, _eventually_ it will be.
 
