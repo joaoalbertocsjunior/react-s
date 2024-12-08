@@ -36,10 +36,12 @@ You can:
 
 ## Table of Contents
 
-- The long-run FAQ (Under construction)
+White sections are still under construction and not yet available.
+
+- The long-run FAQ
 - [Installation](#installation)
-- Features (Under construction)
-- Documentation (Under construction)
+- Features
+- Documentation
 - [Future Updates](#future-updates)
 - [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
