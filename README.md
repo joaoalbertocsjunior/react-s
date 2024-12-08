@@ -17,6 +17,8 @@ This project envisions a future where data-bound and ready-to-consume components
 - JSON is easy to mantain.
 - JSON is widely adopted.
 
+You can write logic within JSON as you would in xml or jsx.
+
 ## Is the project _production ready_?
 
 In summary, **no**, _eventually_ it will be.
