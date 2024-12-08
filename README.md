@@ -36,20 +36,16 @@ You can:
 
 ## Table of Contents
 
-- [The long-run FAQ](#the-long-run-faq)
+- The long-run FAQ (Under construction)
 - [Installation](#installation)
-- Features
-- [Documentation](#documentation)
+- Features (Under construction)
+- Documentation (Under construction)
 - [Future Updates](#future-updates)
 - [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
 - [License](#license)
 - [Mainteners](#mainteners)
 - [Contributors](#contributors)
-
-## The long-run FAQ (Under Maintanace)
-
-You can check The _Long-Run_ FAQ [here](./FAQ.md). 
 
 ## Installation
 
@@ -84,10 +80,6 @@ You can check The _Long-Run_ FAQ [here](./FAQ.md).
 		
 		```bash
 		npm run start
- 
-## Documentation
-
-- Under Construction
 
 ## Future Updates
 
