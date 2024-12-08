@@ -16,7 +16,7 @@ This project envisions a future where data-bound and ready-to-consume components
 - JSON is easy to parse.
 - JSON is easy to mantain.
 - JSON is widely adopted.
-- JSON _excels_ at being the data interchange format between integrated systems.
+- JSON excels at being one of best data interchange format between integrated systems.
 
 You can write logic inside JSON as you would in xml or jsx.
 
