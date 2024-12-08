@@ -6,7 +6,7 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 - At some point translations for other languages like python, php, ruby... will be available.
 
-## Why _this sould remain evergreen_
+## Why _this should remain evergreen_
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests using a more interchangeable structure.
 
