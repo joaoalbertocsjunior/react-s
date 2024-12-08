@@ -38,7 +38,7 @@ You can:
 
 - [The long-run FAQ](#the-long-run-faq)
 - [Installation](#installation)
-- [Features](#features)
+- Features
 - [Documentation](#documentation)
 - [Future Updates](#future-updates)
 - [About the coffee](#about-the-coffee)
