@@ -39,7 +39,7 @@ Next releases include:
 - _Enhanced_ code flow;
 - Minified and CDN version;
 
-## Not a
+## This _is not_ a
 
 - Replacement for css;
 
