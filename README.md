@@ -32,16 +32,16 @@ Next releases include:
 - Parse between DOM, JSON and JSON-DOM structures.
 - Use tools to create and manipulate JSON-DOM.
 
-## This do not include
-
-- Replacement for css;
-
-## What can i expect in next updates
+## What can i expect next
 
 - _Better_ overall support for state and state management libraries;
 - _Better_ support for react-router;
 - _Enhanced_ code flow;
 - Minified and CDN version;
+
+## This do _NOT_ aim to be
+
+- A replacement for css;
 
 ## Learn from examples (Under Construction)
 
