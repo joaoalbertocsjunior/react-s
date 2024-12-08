@@ -39,9 +39,9 @@ Next releases include:
 - _Enhanced_ code flow;
 - Minified and CDN version;
 
-## This do _NOT_ aim to be
+## This is _NOT_ a
 
-- A replacement for css;
+- Replacement for css;
 
 ## Learn from examples (Under Construction)
 
