@@ -10,6 +10,13 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or send over url params and body requests.
 
+## Why this sould be considered evergreen?
+
+- JSON is easy to read.
+- JSON is easy to parse.
+- JSON is easy to mantain.
+- JSON is widely adopted.
+
 ## Is the project _production ready_?
 
 In summary, **no**, _eventually_ it will be.
