@@ -10,7 +10,7 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests using a more interchangeable structure.
 
-## Why should i use json instead of xml or jsx
+## The benefits of using json over xml or jsx
 
 - JSON is easy to read.
 - JSON is easy to parse.
@@ -19,6 +19,10 @@ This project envisions a future where data-bound and ready-to-consume components
 - JSON excels at being one of best data interchange format between integrated systems.
 
 You can write logic inside JSON as you would in xml or jsx.
+
+## Do i have to re-write all my code to use this?
+
+No, you can simple use the parse functions provided.
 
 ## Is the project _production ready_
 
