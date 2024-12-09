@@ -20,10 +20,6 @@ This project envisions a future where data-bound and ready-to-consume components
 
 You can write logic inside JSON as you would in xml or jsx.
 
-## Do i have to re-write all my code to use this?
-
-No, you can simple use the parse functions provided.
-
 ## Is the project _production ready_
 
 In summary, **no**, _eventually_ it will be.
@@ -35,6 +31,10 @@ Next releases include:
 - Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
 - Parse between DOM, JSON and JSON-DOM structures.
 - Use tools to create and manipulate JSON-DOM.
+
+## Do i have to re-write all my code to use this?
+
+No, the best way is to use the parse functions.
 
 ## What to expect next
 
