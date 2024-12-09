@@ -24,7 +24,7 @@ You can:
 
 - View [documentation](./documentation)
 - Check [examples](./examples)
-- Access _Code Playground_
+- Use _Code Playground_
 
 ## Table of Contents
 
