@@ -24,7 +24,7 @@ You can:
 
 - View [Documentation](./documentation)
 - Check [Examples](./examples)
-- Use [Code Playground]
+- Use [Code Playground](https://github.com/joaoalbertocsjunior/react-s/tree/main)
 
 ## Table of Contents
 
