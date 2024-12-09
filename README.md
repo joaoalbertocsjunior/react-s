@@ -12,7 +12,7 @@ This project envisions a future where data-bound and ready-to-consume components
 
 ## Stay tunned to the FAQ
 
-You can check The _Long-Run_ FAQ [here](./FAQ.md)
+Read the [_Long-Run_ FAQ](./FAQ.md)
 
 ## Learn from examples (Under Construction)
 
