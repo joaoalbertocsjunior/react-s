@@ -54,9 +54,9 @@ Must known syntaxes:
 - css
 - javascript
 
-[W3Schools](https://www.w3schools.com/) can help you alot with that.
+[W3Schools](https://www.w3schools.com/) can help you with that.
 
-[ReactJS](https://react.dev/) is not mandatory but can be worth.
+[ReactJS](https://react.dev/) is not mandatory but can be worth to learn.
 
 ## Installation
 
