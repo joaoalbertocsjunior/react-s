@@ -10,6 +10,10 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests using a more interchangeable structure.
 
+## This _is not_ a
+
+- Replacement for css;
+
 ## Stay tunned to the FAQ
 
 Read the [_Long-Run_ FAQ](./FAQ.md)
@@ -21,10 +25,6 @@ You can:
 - View [Documentation](#documentation)
 - Check [examples](./examples) folder
 - Access _Code Playground_
-
-## This _is not_ a
-
-- Replacement for css;
 
 ## Table of Contents
 
