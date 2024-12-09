@@ -10,7 +10,7 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests using a more interchangeable structure.
 
-## Stay tunned, Read the FAQ
+## Stay tunned to the FAQ
 
 You can check The _Long-Run_ FAQ [here](./FAQ.md). 
 
