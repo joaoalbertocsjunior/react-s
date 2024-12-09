@@ -12,7 +12,7 @@
 You can write logic inside JSON as you would in xml or jsx.
 </details>
 <details>
-<summary>Is the project production ready</summary>
+<summary>Is the project production ready?</summary>
 
 In summary, **no**, _eventually_ it will be.
 
