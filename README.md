@@ -22,8 +22,8 @@ Read the [_Long-Run_ FAQ](./FAQ.md)
 
 You can:
 
-- View [Documentation](#documentation)
-- Check [examples](./examples) folder
+- View [documentation](./documentation)
+- Check [examples](./examples)
 - Access _Code Playground_
 
 ## Table of Contents
