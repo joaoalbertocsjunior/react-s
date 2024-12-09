@@ -62,7 +62,7 @@ Must known syntaxes:
 
 Once you have node and npm installed you can:
 
-- Use npx to download the available _starter_ template:
+- Use npx to download the available _starter template_:
 
 	```bash
 	npx react-s-starter 
