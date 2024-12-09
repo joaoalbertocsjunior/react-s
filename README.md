@@ -46,7 +46,7 @@ Must have installed
 - node
 - npm
 
-You can download those [HERE](https://nodejs.org/en/download/package-manager)
+You can download those [here](https://nodejs.org/en/download/package-manager).
 
 Must known syntaxes:
 
@@ -56,7 +56,7 @@ Must known syntaxes:
 
 [W3Schools](https://www.w3schools.com/) can help you alot with that.
 
-ReactJS is not mandatory but can be worth [learning](https://react.dev/).
+[ReactJS](https://react.dev/) is not mandatory but can be worth.
 
 ## Installation
 
