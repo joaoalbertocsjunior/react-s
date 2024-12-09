@@ -41,15 +41,22 @@ White sections are still under construction and not yet available.
 
 ## Prerequisites
 
-You must known:
+Must have installed
 
-- HTML;
-- CSS;
-- Javascript;
+- node
+- npm
 
-You also need to have NodeJS and npm installed.
+You can download those [HERE](https://nodejs.org/en/download/package-manager)
 
-ReactJS syntax is not mandatory but can also help you.
+Must known syntaxes:
+
+- html
+- css
+- javascript
+
+[W3Schools](https://www.w3schools.com/) can help you alot with that.
+
+ReactJS is not mandatory but can be worth [learning](https://react.dev/).
 
 ## Installation
 
