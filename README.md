@@ -41,7 +41,7 @@ White sections are still under construction and not yet available.
 
 ## Prerequisites
 
-Must known:
+You must known:
 
 - HTML;
 - CSS;
