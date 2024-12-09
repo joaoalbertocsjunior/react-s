@@ -18,13 +18,13 @@ This project envisions a future where data-bound and ready-to-consume components
 
 Read the [_Long-Run_ FAQ](./FAQ.md)
 
-## Learn from examples (Under Construction)
+## Learn from examples (This is a placeholder area, those still are under construction)
 
 You can:
 
 - View [Documentation](./documentation)
 - Check [Examples](./examples)
-- Use _Code Playground_
+- Use [Code Playground]
 
 ## Table of Contents
 
