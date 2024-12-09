@@ -18,7 +18,7 @@ This project envisions a future where data-bound and ready-to-consume components
 
 Read the [_Long-Run_ FAQ](./FAQ.md)
 
-## Learn from examples (Section is under construction, [read the FAQ](./FAQ.md))
+## Learn from examples (Section under construction, [read the FAQ](./FAQ.md))
 
 You can:
 
