@@ -10,42 +10,9 @@ This aims to be a community-driven project where the main goal is to enable deve
 
 This project envisions a future where data-bound and ready-to-consume components can be fetched directly from apis or be sent and consumed over url params or body requests using a more interchangeable structure.
 
-## The benefits of using json over xml or jsx
+## Stay tunned, Read the FAQ
 
-- JSON is easy to read.
-- JSON is easy to parse.
-- JSON is easy to mantain.
-- JSON is widely adopted.
-- JSON excels at being one of best data interchange format between integrated systems.
-
-You can write logic inside JSON as you would in xml or jsx.
-
-## Is the project _production ready_
-
-In summary, **no**, _eventually_ it will be.
-
-**Project is currently under development and in early stage, enroll yourself, focus on _bleeding-edge_ code!**
-
-Next releases include:
-
-- Write ReactJS apps in a user-friendly and predictable way using JSON syntax instead of directly using DOM elements to reduce verbosity within code.
-- Parse between DOM, JSON and JSON-DOM structures.
-- Use tools to create and manipulate JSON-DOM.
-
-## Do i have to re-write all my code to use this?
-
-No, the best way is to use the parse functions.
-
-## What to expect next
-
-- _Better_ overall support for state and state management libraries;
-- _Better_ support for react-router;
-- _Enhanced_ code flow;
-- Minified and CDN version;
-
-## This _is not_ a
-
-- Replacement for css;
+You can check The _Long-Run_ FAQ [here](./FAQ.md). 
 
 ## Learn from examples (Under Construction)
 
@@ -55,11 +22,15 @@ You can:
 - Check [examples](./examples) folder
 - Access _Code Playground_
 
+## This _is not_ a
+
+- Replacement for css;
+
 ## Table of Contents
 
 White sections are still under construction and not yet available.
 
-- The long-run FAQ
+- [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - Features
 - Documentation
@@ -69,7 +40,19 @@ White sections are still under construction and not yet available.
 - [Mainteners](#mainteners)
 - [Contributors](#contributors)
 
+## Prerequisites
+
+Must known:
+
+- HTML;
+- CSS;
+- Javascript;
+
+You also need to have NodeJS and npm installed.
+
 ## Installation
+
+Once NodeJS and npm are installed you can:
 
 - You can use npx to download the available template and start coding:
 
@@ -105,7 +88,7 @@ White sections are still under construction and not yet available.
 
 ## About the coffee
 
-**_instead_, feel free to contribute to the project!**
+**_Instead_, feel free to contribute to the project!**
  
 ## Third-Party Libraries
 
