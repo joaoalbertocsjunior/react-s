@@ -60,9 +60,9 @@ Must known syntaxes:
 
 ## Installation
 
-Once you have node and npm installed you can:
+Once you have node and npm installed you can use the console to:
 
-- Use npx to download the available starter template:
+- With npx installed you can download the available starter template by:
 
 	```bash
 	npx react-s-starter 
