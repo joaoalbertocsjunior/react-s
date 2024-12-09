@@ -49,6 +49,8 @@ You must known:
 
 You also need to have NodeJS and npm installed.
 
+ReactJS syntax is not mandatory but can also help you.
+
 ## Installation
 
 Once NodeJS and npm are installed you can:
