@@ -31,8 +31,8 @@ You can:
 White sections are still under construction and not yet available.
 
 - [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - Features
+- [Installation](#installation)
 - Documentation
 - [About the coffee](#about-the-coffee)
 - [Third-Party Libraries](#third-party-libraries)
