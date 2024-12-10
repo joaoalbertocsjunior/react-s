@@ -1,4 +1,4 @@
-# react-s
+# react-json
 
 **react-json stands for _structure_, _short_ & _simple_.**
 
