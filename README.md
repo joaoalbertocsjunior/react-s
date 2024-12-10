@@ -1,6 +1,6 @@
 # react-s
 
-**react-s stands for _structure_, _short_ & _simple_.**
+**react-json stands for _structure_, _short_ & _simple_.**
 
 This aims to be a community-driven project where the main goal is to enable developers to use existing ReactJS powerfull code base to build webapps using JSON structural patterns. This enables developers to use non-relational databases and json-oriented APIs like GraphQL to build the next _state-of-art_ web.
 
